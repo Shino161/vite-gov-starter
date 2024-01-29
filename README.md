@@ -1,2 +1,11 @@
 # vite-gov-starter
- 集成浙里办、钉钉，浙政钉免登逻辑的前端 template
+
+使用 vite 搭建的浙里办，钉钉的 h5 应用 template  
+为开发者快速搭建应用提供便利
+
+## 需要掌握的
+
+- [vite]
+- [vue]
+- [pinia]
+- [vue-router]
